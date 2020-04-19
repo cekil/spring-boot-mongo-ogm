@@ -33,7 +33,6 @@ public class Customer {
 
     private String resourceId;
 
-
     @Column(name = "first_name")
     private String firstname;
 

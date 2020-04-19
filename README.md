@@ -5,7 +5,7 @@ Java Version : 8
 
 Spring Boot Version : 2.1.8.RELEASE
 
-Hibernate OGM Version : 5.4.1.Final
+Hibernate OGM Mongo Version : 5.4.1.Final
 
 Narayana JTA Version : 5.9.8.Final
 

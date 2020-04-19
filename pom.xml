@@ -23,7 +23,7 @@
         <narayana-jta.version>5.9.8.Final</narayana-jta.version>
     </properties>
 
-    
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
