@@ -1,5 +1,5 @@
 # spring-boot-mongo-ogm
-Sample project (PetShop) for Spring Boot Hibernate Mongo OGM Integration
+Sample project (PetShop) for Spring Boot Hibernate OGM Mongo Integration
 
 Java Version : 8
 
